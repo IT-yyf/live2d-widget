@@ -24,7 +24,7 @@
 
 #waifu {
 	bottom: -1000px;
-	left: 0;
+	right: 80px;
 	line-height: 0;
 	margin-bottom: -10px;
 	position: fixed;
@@ -39,10 +39,10 @@
 
 #waifu-tips {
 	animation: shake 50s ease-in-out 5s infinite;
-	background-color: rgba(236, 217, 188, .5);
-	border: 1px solid rgba(224, 186, 140, .62);
+	background-color: rgba(253, 121, 168, .5);
+	border: 1px solid rgba(232, 67, 147, .62);
 	border-radius: 12px;
-	box-shadow: 0 3px 15px 2px rgba(191, 158, 118, .2);
+	box-shadow: 0 3px 15px 2px rgba(237, 76, 103, .2);
 	font-size: 14px;
 	line-height: 24px;
 	margin: -30px 20px;
